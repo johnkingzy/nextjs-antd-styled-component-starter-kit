@@ -1,14 +1,14 @@
-# NextJS | Ant Design | Styled Component Starter Kit
+## NextJS 🔗 Ant Design 🔗 Styled-Component ⚡️ Starter Kit
 
 This example shows how to use Next.js along with [Ant Design of React](https://ant.design) & [Styled Component](https://styled-components.com/). This is intended to show the integration of these UI toolkit with the Framework.
 
-## Preview
+### Preview
 
 Preview the example live on [StackBlitz](http://stackblitz.com/):
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](TODO)
 
-## Deploy your own
+### Deploy your own
 
 Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
 
